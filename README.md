@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritvik-br
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 
 <!---
 ritvik-br/ritvik-br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
